@@ -1,5 +1,7 @@
 SPHY Double Slit: Forensic Visualizer
 
+Baixe o dataset: https://drive.google.com/file/d/1Ff--oKntpHNltIHc5eCmiCbz6FwKZyBm/view?usp=drive_link
+
 ⚛️🛡️Este repositório contém o asphy_slit_viewer.py, uma ferramenta de visualização interativa e auditoria criptográfica projetada para analisar a transição de fase quântica na experiência da dupla fenda sob o framework SPHY (Symbiotic Phase Harmonic Yielding).
 
 🚀 O Experimento DigitalO visualizador processa um dataset que emula o comportamento dual da matéria. 
